@@ -1,18 +1,19 @@
-/*this code belongs to the index html */
+/*this code belongs to all the pages background */
 body {
     background-color: rgb(221, 116, 186);
 }
-/* this code belongs to the portfolio html */
+/* this code helped get all the card to their appropriate size */
 .main {
     padding: 60px 15px 0;
 }
 
+/* this is for the image in the about me section */
 #about-me-image {
     width: 250px; 
     float: left; 
     margin-right: 10px;
 }
-
+/* this is to make the image responsive to the page */
 .img-fluid {
     margin-top: 5px;
     margin-bottom: 5px;
