@@ -14,7 +14,7 @@ On the "About Me" page you will find a profesional headshot of myself, along wit
 
 Here is an example of what the "About Me" page looks like: 
 
- ![Screen shot](About-me.png)
+![Screen shot](About-me.png)
 
 On the "Portfolio" page you will find the curated images I spoke about earlier. Essentially, these images are just placeholders and will be replaced with my projects once I have them available.
 
